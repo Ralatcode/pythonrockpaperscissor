@@ -12,4 +12,4 @@ Scissors beats Paper.
 
 I was tasked to create a simple version of this game with Python. One player is controlled by the computer and the other player is controlled by the user.
 
-It makes use of inbuilt Python module <a href="ttps://www.w3schools.com/python/module_random.asp" target="_blank">random</a> and its <a href="https://www.w3schools.com/python/module_random.asp" target="_blank">choice method.</a>
+It makes use of inbuilt Python module <a href="ttps://www.w3schools.com/python/module_random.asp" target="_blank">random</a> and its <a href="https://pynative.com/python-random-choice/" target="_blank">choice method.</a>

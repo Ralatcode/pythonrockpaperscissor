@@ -10,9 +10,7 @@ while start_game:
     
 
     player_input = str(input("Choose your character: \nEnter 'R' for rock \nEnter 'P' for paper \nEnter 'S' for scissors\nEnter 'Z' to close game.\n"))
-    # except:
-    #     print("You did not enter a string")
-    #     continue
+    # checks if it is an alphabet
     if not player_input.isalpha():
             print("This is not an alphabet")
             continue
